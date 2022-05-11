@@ -1,0 +1,48 @@
+button{
+    width: 3em;
+    height: 3em;
+    font-size: 1.5em;
+    border:none !important;
+    border-radius: 2em !important;
+    margin: 0.2em !important;
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+.wrapper{
+    background-color: black !important;
+    border-radius: 1em;
+}
+
+.wrapper{
+    background-color: black !important;
+    border-radius: 1em;
+    padding: 1em;
+}
+
+.orange{
+    background-color: #ff9500 !important;
+    color: white !important
+}
+.gray{
+    background-color: #50505099;
+    color: white !important
+}
+
+.resultado{
+    color: white;
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 0.8em;
+    font-size: 3.5em;
+
+}
+#btnZero {
+    width: 6.4em;
+    height: 2.85em;
+    border-radius: 1em;
+}
+
+
